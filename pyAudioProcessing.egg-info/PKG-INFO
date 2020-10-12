@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: pyAudioProcessing
+Version: 1.0
+Summary: Audio processing-feature extraction and building machine learning models from audio data.
+Home-page: https://github.com/jsingh811/pyAudioProcessing
+Author: Jyotika Singh
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
